@@ -1,4 +1,3 @@
-# Ahmad Albidery
 ### Full-Stack Developer | AI Integration Specialist | Problem Solver
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahmad_ailbidery36@yahoo.com)
